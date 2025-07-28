@@ -20,4 +20,4 @@ We aimed to explore the link between market sentiment (numerical values) and tra
 
 The bar plot below summarizes this trend visually.
 
-![Sentiment vs PnL](assets/sentiment_vs_pnl.png)
+![Sentiment vs PnL](image/main_insight.png)
