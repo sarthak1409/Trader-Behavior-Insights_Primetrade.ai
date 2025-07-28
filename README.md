@@ -7,7 +7,7 @@ This project explores the relationship between **market sentiment** and **trader
 ```
 ├── notebook/
 │   └── main.ipynb     # Jupyter Notebook containing all EDA & visualizations
-├── assets/
+├── image/
 │   └── main_insight.png         # Bar plot of PnL vs Sentiment Category
 ├── analysis.md                      # Summary of the EDA and key findings
 ├── README.md                        # Project overview and setup guide
